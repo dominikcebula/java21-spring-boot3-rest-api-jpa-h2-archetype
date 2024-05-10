@@ -1,4 +1,4 @@
-name: Todo Service GitHub Actions CI Pipeline
+name: Java 21 Spring Boot 3 REST API with JPA Archetype GitHub Actions CI Pipeline
 
 on:
   push:
