@@ -1,3 +1,5 @@
+[![Java 21 Spring Boot 3 REST API with JPA Archetype GitHub Actions CI Pipeline](https://github.com/dominikcebula/java21-spring-boot3-rest-api-jpa-h2-archetype/actions/workflows/maven.yml/badge.svg)](https://github.com/dominikcebula/java21-spring-boot3-rest-api-jpa-h2-archetype/actions/workflows/maven.yml)
+
 # Java 21 Spring Boot 3 REST API with JPA Archetype
 
 ## Intro
